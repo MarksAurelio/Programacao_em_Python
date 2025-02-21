@@ -21,7 +21,7 @@ match operacao:
         print('Operação inválida')
 
 # # ou
-# # Definição das oprações em um dicionário
+# # Definição das operações em um dicionário
 # operacoes = {
 #     '+': lambda x, y: x + y,
 #     '-': lambda x, y: x + y,
